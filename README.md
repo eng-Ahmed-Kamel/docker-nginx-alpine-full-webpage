@@ -1,8 +1,7 @@
 # docker-nginx-alpine-full-webpage
-```
-# 🌐 Ahmed Kamel - First DevOps Project: Full Website with Nginx & Docker
+
+# Ahmed Kamel - First DevOps Project: Full Website with Nginx & Docker
 > A complete, production-ready website containerized with Docker, served via Nginx, and published to Docker Hub. This project demonstrates a professional DevOps workflow from development to deployment.
----
 ![project](project-image.png)
 ![page1](page1.png)
 ![page2](page2.png)
